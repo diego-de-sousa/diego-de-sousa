@@ -25,10 +25,10 @@ My work sits at the intersection of **design and code**: I care about how digita
 
 - [**unslump!**](https://github.com/diego-de-sousa/unslump) — a science-backed bilingual PWA for 25-minute movement breaks for desk workers.
 - [**diegodesousa.com**](https://github.com/diego-de-sousa/diegodesousa) — my multilingual portfolio, built with Astro, Tailwind CSS, MDX, and a strong focus on accessibility and performance.
-- **Floralia** — a gardening and home-growing app for organizing plants, tasks, and growing spaces.
+- [**Floralia**](https://floralia.app) — a gardening and home-growing app for organizing plants, tasks, and growing spaces.
 - **Grandes Memorias** — lasting memorial pages connected through QR codes.
 
-More public projects are being prepared.
+More public projects are being prepared. (maybe tbh)
 
 ## Languages
 
